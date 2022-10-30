@@ -31,13 +31,8 @@ header {
 
 .gallery > img{
   border: 3px solid #50C7C7;
-}
-
-
-img{
   margin: 10px;
 }
-  
 
 #logo{
   animation: fadeIn 3s;
